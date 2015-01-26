@@ -28,7 +28,8 @@ AT for the "AT Command Set" and Arduino IDE.
 SoC for the Lua loader Autonomous version.
 
 
-
+The File init.lua is the Default program to run on the ESP8266 this is a copy of WebDimmer.lua
+ but uplaod a file to ESP8266 and it will execute on Powerup or Reboot.
 
 
 Use the Onboard system processor to completely replace the Arduino and run code DIRECTLY from the device.
@@ -36,7 +37,7 @@ Use the Onboard system processor to completely replace the Arduino and run code 
 I have added a single SS88050 transistor to the GPIO_0 output and I use a served webpage from the
 device to PWM control over 4 meters of White 3528 12v LEDs via WiFi.
 
-Total Cost Less than £10
+Total Cost Less than £10.
 
 Including 3V LDO, 5v 7805, 2 10uF, Wire, Box, Transistor AND the ESP8266 !!!
 
