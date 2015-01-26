@@ -29,7 +29,7 @@ SoC for the Lua loader Autonomous version.
 
 
 The File init.lua is the Default program to run on the ESP8266 this is a copy of WebDimmer.lua
- but uplaod a file to ESP8266 and it will execute on Powerup or Reboot.
+ but uplaod a file called init.lua to ESP8266 and it will execute on Powerup or Reboot.
 
 
 Use the Onboard system processor to completely replace the Arduino and run code DIRECTLY from the device.
