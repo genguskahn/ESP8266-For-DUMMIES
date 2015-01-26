@@ -5,14 +5,19 @@ This contains the bare minimum to allow the use of ESP8266.
 
 
 
-.
-.
-The Folders are ....
-.
-.
-.
 
->>>>>>>>>>>
+
+
+
+
+
+The Folders are ....
+
+
+
+
+
+
 
 AT for the "AT Command Set" and Arduino IDE.
 
@@ -61,3 +66,6 @@ For Firmware UPDATE MODE ....
 
 As Above PLUS GPIO_0  --> Gnd (Flash Write UN-Protect/UPGRADE MODE).
 
+
+The Baud Rate Depends on the Existing Firmware start at 9600 then 57600 and finaly 115200
+if these ALL FAIL THE WIRING OR DEVICE IS FAULTY check the wiring and that there is at least 350ma on the 3v.
