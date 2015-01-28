@@ -57,7 +57,7 @@
 	<font color="red"><big><big>'..' '..setpower..' '..'% of power</big></big>\
 	</font><font color="black"><br></font><br>\
 	<input type="submit" name="pwmi" value="FLC"> HW blinker</form><br><br>\
-	<IMG SRC="http://www.electrodragon.com/w/images/a/ac/Esp8266_wiring.jpg" WIDTH="250" HEIGHT="151" BORDER="1">\
+	<IMG SRC="http://groundreport.com/wp-content/uploads/2013/11/Genghis-Khan-Statue1.jpg" WIDTH="250" HEIGHT="151" BORDER="1">\
 	</body></html>')
     conn:on("sent",function(conn) conn:close() end)
     end)
