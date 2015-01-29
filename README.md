@@ -34,7 +34,7 @@ The File init.lua is the Default program to run on the ESP8266 this is a copy of
 
 Use the Onboard system processor to completely replace the Arduino and run code DIRECTLY from the device.
 
-I have added a single SS88050 transistor to the GPIO_0 output and I use a served webpage from the
+I have added a single SS8050 transistor to the GPIO_0 output and I use a served webpage from the
 device to PWM control over 4 meters of White 3528 12v LEDs via WiFi.
 
 Total Cost Less than £10.
