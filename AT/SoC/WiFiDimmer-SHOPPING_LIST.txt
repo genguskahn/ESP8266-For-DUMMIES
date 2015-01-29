@@ -1,0 +1,31 @@
+The Following Parts are needed...... Total Cost around £10
+
+
+For Simplicity I have used ONE SUPPLIER BUT HERE ARE MANY MORE it's up to YOU....
+
+
+All Parts have a SKU number from Banggood.com
+
+5 Meter 3528 LED Strip -SKU124079------------ £2.62
+
+ESP8266 ----------------SKU165317------------ £2.02
+
+3v LDO (AMS1117-3)------SKU126782-------------£0.34 (£1.66 for 5)
+
+5v LDO (AMS1117-5)------SKU094105-------------£0.61 (£1.21 for 2)
+
+SS8050 1.5A TO92 Package transistor--Awaiting SKU--(Mine came from hoarding for years)
+
+Box, buy and strip -----SKU019335-------------£1.75
+This gives the option of Re-Using The IR Reciever and Remote, additional coding required (TBD)
+This also contains a DC Power jack that can be removed from the board and glued into the case.
+The Picture the begining shows the addition of An Arduino Nano in the same box.
+or use what you have.
+
+Power Supply -----------SKU131337-------------£2.69
+
+--------------
+
+If you do not have a programming metheod .....
+USB To Serial ---------SKU080201--------------£1.52
+
