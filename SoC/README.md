@@ -31,7 +31,7 @@ Very Simple Follower, ok for switches & PWM maybe not so predictable at very hig
 
 Transistor Base Pin        is the input of what you are using, in my case SS8050 For the 12V LED's.
 
-----[||||]---   is a 22K resistor.
+----[||||]---   is a 220K resistor.
 
 
 
