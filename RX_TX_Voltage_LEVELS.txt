@@ -37,7 +37,7 @@ The device starts failing at 5.9v with no APPARENT damage.
 
 I then ran the device at both 3v and 5v Logic levels for some hours.
 
-The PERMANENT DAMGE OCCOURS AT 6v ECL, the device internal diode fails.
+The PERMANENT DAMGE OCCOURS AT 6v ECL(Vacuum Tube), the device internal diode fails.
 
 The diode that fails indicates the presence of a schotky diode protecting the inputs
 
