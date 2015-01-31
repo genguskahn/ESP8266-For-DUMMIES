@@ -1,17 +1,13 @@
 The Following Parts are needed...... 
 
 
-
-
 Total Cost around £10
 
 
 
 
 
-
-For Simplicity I have used ONE SUPPLIER BUT HERE ARE MANY MORE it's up to YOU....
-
+For Simplicity I have used ONE SUPPLIER BUT THERE ARE MANY MORE it's up to YOU....
 
 
 
@@ -37,8 +33,7 @@ ESP8266 ----------------SKU165317------------ £2.02
 
 SS8050 1.5A TO92 Package transistor--Awaiting SKU--(Mine came from hoarding for years)
 
-The 
-Box, buy+strip -----SKU019335-------------£1.75
+The Box, buy+strip -----SKU019335-------------£1.75
 
 This gives the option of Re-Using The IR Reciever and Remote, additional coding required (TBD)
 This also contains a DC Power jack that can be removed from the board and glued into the case.
