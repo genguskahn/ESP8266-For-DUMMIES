@@ -1,0 +1,53 @@
+
+____________________________________________________________________________________
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!PLEASE THIS IS MY EXPERIENCE YOUR DEVICES MAY DIFFER FROM MINE I OFFER NO GARANTEE!
+!----------------------------------------------------------------------------------!
+!!!!!!!!!!!!!!!!!!!  REMEMBER I DELIBERATELY BLEW IT UP  !!!!!!!!!!!!!!!!!!!!!!!!!!!
+____________________________________________________________________________________
+************************************************************************************
+
+
+
+
+
+This is my experience with the devices I have purchased.
+
+The Vcc MUST BE 3V at ALL TIMES.
+
+However I have now tested 1 X ESP8266-01 to Destruction and the results
+
+are very encouraging.
+
+
+This is not so crazy as you may expect, 
+
+
+ The cost £2.02
+
+ The Why? I started as a Test Engineer in 1987 and we never believed manufacturers
+ SPEC!, sometimes EVEN as a matter of organisational PROCEDURE!!!.
+
+
+The Tx(input as GPIO_X) Rx input Levels 3v to use level shifters, Resistors..........
+
+The device functioned PERFECTLY at 5V logic I/O, both as I/O AND UART.
+
+The device starts failing at 5.9v with no APPARENT damage.
+
+I then ran the device at both 3v and 5v Logic levels for some hours.
+
+The PERMANENT DAMGE OCCOURS AT 6v ECL, the device internal diode fails.
+
+The diode that fails indicates the presence of a schotky diode protecting the inputs
+
+therefore 5v with some impedance (500R+) is PERFECTLY SAFE for NORMAL OPERATION.
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!PLEASE THIS IS MY EXPERIENCE YOUR DEVICES MAY DIFFER FROM MINE I OFFER NO GARANTEE!
+!----------------------------------------------------------------------------------!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!   REMEMBER I BLEW IT UP  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
