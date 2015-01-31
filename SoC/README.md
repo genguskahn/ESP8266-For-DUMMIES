@@ -1,4 +1,5 @@
 ﻿#README FIRST...
+----------------
 
 For ANY of the items in this folder tree to function the NodeMCU firmware MUST FIRST be loaded.
 
@@ -16,12 +17,21 @@ Then Click "Upload file", find "init.lua" click OPEN.
 
 When complete click "Restart".
 
+
+If You wish to connect to the device as an Access Point Upload & run SecureAP.lua.
+This has the SSID "ESPNet" and password "deadbeaf", the address will then be assigned
+From the ESP8266 to your Phone/Table/PC.
+
+
 Sometimes it is best at this point to remove the power to allow a "COLD" boot(Complete RESET).
 
-When the module is powered up it now serves a web page to the IP assigned to the WiFi
-.
+When the module is powered up it now serves a web page to the IP assigned to the WiFi.
+
 
 If you have problems with GPIO_X pins as an output See GPIO_BUFFER.jgp.
+
+
+
 
 
 
