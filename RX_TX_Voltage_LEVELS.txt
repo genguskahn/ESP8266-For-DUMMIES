@@ -41,7 +41,7 @@ The PERMANENT DAMGE OCCOURS AT 6v ECL, the device internal diode fails.
 
 The diode that fails indicates the presence of a schotky diode protecting the inputs
 
-therefore 5v with some impedance (500R+) is PERFECTLY SAFE for NORMAL OPERATION.
+therefore 5v LOGIC LEVEL with some impedance (500R+) is PERFECTLY SAFE for NORMAL OPERATION.
 
 
 
