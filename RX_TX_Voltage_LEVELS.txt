@@ -39,7 +39,7 @@ I then ran the device at both 3v and 5v Logic levels for some hours.
 
 The PERMANENT DAMGE OCCOURS AT 6v ECL(Vacuum Tube), the device internal diode fails.
 
-The diode that fails indicates the presence of a schotky diode protecting the inputs
+The diode that fails indicates the presence of a schotky diode protecting the inputs (ESD Protection)
 
 therefore 5v LOGIC LEVEL with some impedance (500R+) is PERFECTLY SAFE for NORMAL OPERATION.
 
