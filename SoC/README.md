@@ -29,7 +29,7 @@ When the module is powered up it now serves a web page to the IP assigned to the
 Hosted Access Point 192.168.4.1 - DHCP Server, also no ADDITIONAL Router access to WebDimmer.
 
 
-If you have problems with GPIO_X pins as an output See GPIO_BUFFER.jgp.
+If you have problems with GPIO_X pins as an output See GPIO-Buffers.htm in the DimmerDocs folder.
 
 
 
